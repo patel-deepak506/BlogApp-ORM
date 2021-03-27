@@ -6,8 +6,8 @@ I got a project in a hackton that hackton time was 48 hours.We have to make Blog
 
 # Run the  Project
 instlation👎
-npm init
-npm install nodemon express knex postgres 
-knex init
-knex migrate:make table_name
+1.npm init
+2.npm install nodemon express knex postgres 
+3.knex init
+4.knex migrate:make table_name
 
