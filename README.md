@@ -5,9 +5,9 @@ I got a project in a hackton that hackton time was 48 hours.We have to make Blog
 5. In this blog I have use Jwt so who is users that person only create blog and update and  also delete  otherwise no one can chenge.
 
 # Run the  Project
-instlation:-
-          *.npm init
-          *.npm install nodemon express knex postgres 
-          *.knex init
-          *.knex migrate:make table_name
-          
+instlation👎
+npm init
+npm install nodemon express knex postgres 
+knex init
+knex migrate:make table_name
+
